@@ -50,9 +50,23 @@ If you encounter any issues or have questions, please follow these steps:
 I'm here to assist you with any difficulties you may encounter while using Flipper Zero Animations.
 
 ## Credits
-If you make any of these animations, make an issue or DM me on Discord [@wuhp](https://discordapp.com/users/wuhp), and I'll give you credit! 😄
+If you made any of these animations, make an issue or DM me on Discord [@wuhp](https://discordapp.com/users/wuhp), and I'll give you credit! 😄
 
-If you like these animations, please consider starring the repository.
+If you like these animations, please consider giving a star to me and rest of credits
+
+https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest
+
+https://github.com/djsime1/awesome-flipperzero
+
+https://github.com/CharlesTheGreat77/FlipperZeroAnimation
+
+https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers
+
+https://github.com/Kuronons/FZ_graphics
+
+https://github.com/Haseosama/FZ_Animations
+
+
 
 I'd also recommend checking out [this video](https://youtu.be/9uOn6M9m0Dg?si=EErJxOSzuKLcNSMN) and other videos by him.
 
