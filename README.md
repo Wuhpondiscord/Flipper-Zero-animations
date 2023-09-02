@@ -8,11 +8,8 @@ Flipper Zero Animations is a collection of animations for the Flipper Zero devic
   - [ZIP Download](#zip-download)
 - [Usage](#usage)
 - [Help](#help)
+- [Credits](#credits)
 - [Contact](#contact)
-
-## If you make any of these animations make an issue or dm on discord @wuhp and ill give credit:)
-
-## If you like these animations please star
 
 ## Prerequisites
 Before using Flipper Zero Animations, make sure you have the following prerequisites:
@@ -30,18 +27,18 @@ You can download the animations as a ZIP file using the following steps:
 
 2. **Click the "Code" button and select "Download ZIP."**
 
-3. **Extract the downloaded ZIP file** to your desired location.
+3. **Extract the downloaded ZIP file to your desired location.**
 
 ## Usage
-1. After downloading, locate the `flipper animations.zip` file within the repository.
+After downloading, locate the `flipper animations.zip` file within the repository.
 
-2. **Unzip the `flipper animations.zip` file**.
+1. **Unzip the `flipper animations.zip` file.**
 
-3. **Connect your Flipper Zero device's SD card to your computer**.
+2. **Connect your Flipper Zero device's SD card to your computer.**
 
-4. **Replace the `dolphin` file on your SD card with the `dolphin` file from the unzipped `flipper animations` folder**.
+3. **Replace the `dolphin` file on your SD card with the `dolphin` file from the unzipped `flipper animations` folder.**
 
-5. **Plug the SD card back into your Flipper Zero device**.
+4. **Plug the SD card back into your Flipper Zero device.**
 
 ## Help
 If you encounter any issues or have questions, please follow these steps:
@@ -52,7 +49,12 @@ If you encounter any issues or have questions, please follow these steps:
 
 I'm here to assist you with any difficulties you may encounter while using Flipper Zero Animations.
 
-I'd also recommend checking out https://youtu.be/9uOn6M9m0Dg?si=EErJxOSzuKLcNSMN and other videos by him.
+## Credits
+If you make any of these animations, make an issue or DM me on Discord [@wuhp](https://discordapp.com/users/wuhp), and I'll give you credit! 😄
+
+If you like these animations, please consider starring the repository.
+
+I'd also recommend checking out [this video](https://youtu.be/9uOn6M9m0Dg?si=EErJxOSzuKLcNSMN) and other videos by him.
 
 ## Contact
 If you have any other inquiries or suggestions, please feel free to contact us:
