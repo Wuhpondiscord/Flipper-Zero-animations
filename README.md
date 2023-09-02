@@ -44,7 +44,7 @@ If you encounter any issues or have questions, please follow these steps:
 
 1. **Create an Issue**: Visit the GitHub repository and create an issue detailing your problem or question: [https://github.com/Wuhpondiscord/Flipper-Zero-animations/issues](https://github.com/Wuhpondiscord/Flipper-Zero-animations/issues).
 
-2. **Contact on Discord**: You can also reach out for help on Discord by mentioning or direct messaging [@wuhp](https://discordapp.com/users/wuhp).
+2. **Contact on Discord**: You can also reach out for help on Discord by direct messaging [@wuhp](https://discordapp.com/users/wuhp).
 
 We are here to assist you with any difficulties you may encounter while using Flipper Zero Animations.
 
