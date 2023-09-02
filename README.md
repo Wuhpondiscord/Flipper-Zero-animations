@@ -29,9 +29,9 @@ You can download the animations as a ZIP file using the following steps:
 3. **Extract the downloaded ZIP file** to your desired location.
 
 ## Usage
-1. After downloading, locate the `flipper_animations.zip` file within the repository.
+1. After downloading, locate the `flipper animations.zip` file within the repository.
 
-2. **Unzip the `flipper_animations.zip` file**.
+2. **Unzip the `flipper animations.zip` file**.
 
 3. **Connect your Flipper Zero device's SD card to your computer**.
 
@@ -46,7 +46,7 @@ If you encounter any issues or have questions, please follow these steps:
 
 2. **Contact on Discord**: You can also reach out for help on Discord by direct messaging [@wuhp](https://discordapp.com/users/wuhp).
 
-We are here to assist you with any difficulties you may encounter while using Flipper Zero Animations.
+I'm here to assist you with any difficulties you may encounter while using Flipper Zero Animations.
 
 ## Contact
 If you have any other inquiries or suggestions, please feel free to contact us:
