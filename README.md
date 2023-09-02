@@ -66,6 +66,13 @@ https://github.com/Kuronons/FZ_graphics
 
 https://github.com/Haseosama/FZ_Animations
 
+https://github.com/stopoxy/FZAnimations
+
+https://github.com/skizzophrenic/Talking-Sasquach
+
+https://github.com/stopoxy/FZAnimations
+
+
 
 
 I'd also recommend checking out [this video](https://youtu.be/9uOn6M9m0Dg?si=EErJxOSzuKLcNSMN) and other videos by him.
