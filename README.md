@@ -10,6 +10,10 @@ Flipper Zero Animations is a collection of animations for the Flipper Zero devic
 - [Help](#help)
 - [Contact](#contact)
 
+## If you make any of these animations make an issue or dm on discord @wuhp and ill give credit:)
+
+## If you like these animations please star
+
 ## Prerequisites
 Before using Flipper Zero Animations, make sure you have the following prerequisites:
 
@@ -47,6 +51,8 @@ If you encounter any issues or have questions, please follow these steps:
 2. **Contact on Discord**: You can also reach out for help on Discord by direct messaging [@wuhp](https://discordapp.com/users/wuhp).
 
 I'm here to assist you with any difficulties you may encounter while using Flipper Zero Animations.
+
+I'd also recommend checking out https://youtu.be/9uOn6M9m0Dg?si=EErJxOSzuKLcNSMN and other videos by him.
 
 ## Contact
 If you have any other inquiries or suggestions, please feel free to contact us:
