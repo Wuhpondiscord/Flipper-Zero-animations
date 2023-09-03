@@ -2,6 +2,10 @@
 
 Flipper Zero Animations is a collection of around 400 animations for the Flipper Zero device. This repository contains the animations and instructions on how to use them with your Flipper Zero device.
 
+
+## if you see an animation you made or if you want one you or someone else made added dm on discord @wuhp or make an issue
+I'll be adding more over time
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Download](#download)
