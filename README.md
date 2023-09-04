@@ -76,6 +76,14 @@ https://github.com/skizzophrenic/Talking-Sasquach
 
 https://github.com/mnenkov/flipper-zero-animations
 
+https://github.com/synthetikspace/SynthetikSpace-FZ-Animations
+
+https://github.com/guilatoffi/Flipper_animations
+
+https://github.com/oneamongthetrees/fz-gfx
+
+https://github.com/wrenchathome/flip0anims/tree/f28bc9e2ab01bc9c105d1609082b4b4c80594f00
+
 ## Credits for NSFW
 
 https://github.com/kainsamara/Flipper-Zero-Animations
